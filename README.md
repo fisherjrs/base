@@ -2,3 +2,7 @@ base
 ====
 
 red
+
+green
+
+blue
